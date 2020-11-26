@@ -20,6 +20,8 @@ To understand what are the users of the top Latinoamerican **neobanking** apps c
 * [Fondeadora]('https://fondeadora.com/')
 * [hey]('https://www.heybanco.com/index')
 
+<img src="https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/albo-logo.jpg"  width="180" height="75"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/cuenca-logo.png"  width="100" height="80"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/klar-logo.png"  width="100" height="80">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/fondeadora-logo.jpg"  width="100" height="80">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/hey-logo.png"  width="100" height="80">
+
 ## What is Topic Modeling?
 Topic modeling is an unsupervised **natural language processing machine learning** technique that's capable of scanning a set of documents, detecting word and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents. *Topic modeling* can be easily compared to **clustering**. By doing topic modeling we build clusters of words rather than clusters of texts. A text is thus a mixture of all the topics, each having a certain weight.
 
@@ -77,7 +79,9 @@ Neobanks should consider that a good customer support is essential to their succ
 
 <img src='https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/NEO-BANKING_2.jpg'  width="300" height="300" align="right">
 
-### All libraries used can be found in the [requirements.txt]('') file.
+### All libraries used can be found in the [requirements.txt]('https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/requirements.txt') file.
+
+### You can see the **Tableau** sheets [here.]('https://public.tableau.com/views/online-banks/Sheet1?:language=en&:display_count=y&:origin=viz_share_link')
 
 ### References
 * [Askalidis, Georgios & Malthouse, Edward. (2016). The Value of Online Customer Reviews. 10.1145/2959100.2959181.]('https://www.researchgate.net/publication/305044577_The_Value_of_Online_Customer_Reviews')
