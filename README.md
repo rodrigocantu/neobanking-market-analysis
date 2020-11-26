@@ -75,13 +75,13 @@ But is this true for **every** of the analyzed neobanks? **Figure 2** shows that
 
 ## Conclusion
 With that said, the four predicted topics are present across the five main neobanks in Latinoamerica, meaning that those issues shall be bared in mind by potential new users. However, there are problems issued by the users that are more present in certain apps (e.g. app performance and functionality in **hey** is higher than its competitors).
-Neobanks should consider that a good customer support is essential to their success, if they don't want to generate bad reviews. There certainly is room for improvement in all of the discussed topics, specially on the **customer support** and **ease of registration and verification**,  including receiving the companies' **physical card**, as shown in **Figure 3**.
-
-<img src='https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/NEO-BANKING_2.jpg'  width="300" height="300" align="right">
+Neobanks should consider that a good customer support is essential to their success, if they don't want to generate bad reviews. There certainly is room for improvement in all of the discussed topics, specially on the **customer support**, **app performance** and **ease of registration and verification**,  including receiving the companies' **physical card**, as shown in **Figure 3**.
 
 All **libraries** used can be found in the [**_requirements.txt_**](https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/requirements.txt) file.
 
 You can see the **Tableau** sheets [**_here._**](https://public.tableau.com/views/online-banks/Sheet1?:language=en&:display_count=y&:origin=viz_share_link)
+
+<div><img src='https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/NEO-BANKING_2.jpg'  width="300" height="300" align="right"></div>
 
 ### References
 * [Askalidis, Georgios & Malthouse, Edward. (2016). The Value of Online Customer Reviews. 10.1145/2959100.2959181.](https://www.researchgate.net/publication/305044577_The_Value_of_Online_Customer_Reviews)
