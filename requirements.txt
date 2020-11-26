@@ -1,0 +1,17 @@
+pandas
+matplotlib
+numpy
+seaborn
+json
+urllib
+google_play_scraper
+app_store_scraper
+pprint
+urllib3
+xmltodict
+time
+textblob
+spacy 
+langid 
+nltk
+scikit-learn
