@@ -79,9 +79,9 @@ Neobanks should consider that a good customer support is essential to their succ
 
 <img src='https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/NEO-BANKING_2.jpg'  width="300" height="300" align="right">
 
-All **libraries** used can be found in the [**_requirements.txt_**]('https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/requirements.txt') file.
+All **libraries** used can be found in the [**_requirements.txt_**](https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/requirements.txt) file.
 
-You can see the **Tableau** sheets [**_here._**]('https://public.tableau.com/views/online-banks/Sheet1?:language=en&:display_count=y&:origin=viz_share_link')
+You can see the **Tableau** sheets [**_here._**](https://public.tableau.com/views/online-banks/Sheet1?:language=en&:display_count=y&:origin=viz_share_link)
 
 ### References
 * [Askalidis, Georgios & Malthouse, Edward. (2016). The Value of Online Customer Reviews. 10.1145/2959100.2959181.]('https://www.researchgate.net/publication/305044577_The_Value_of_Online_Customer_Reviews')
