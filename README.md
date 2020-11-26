@@ -84,5 +84,5 @@ All **libraries** used can be found in the [**_requirements.txt_**](https://gith
 You can see the **Tableau** sheets [**_here._**](https://public.tableau.com/views/online-banks/Sheet1?:language=en&:display_count=y&:origin=viz_share_link)
 
 ### References
-* [Askalidis, Georgios & Malthouse, Edward. (2016). The Value of Online Customer Reviews. 10.1145/2959100.2959181.]('https://www.researchgate.net/publication/305044577_The_Value_of_Online_Customer_Reviews')
-* [Utz, Sonja & Kerkhof, Peter & Bos, Joost. (2011). Consumers rule: How consumer reviews influence perceived trustworthiness of online stores. Electronic Commerce Research and Applications. 10.1016/j.elerap.2011.07.010.]('https://www.researchgate.net/publication/251693484_Consumers_rule_How_consumer_reviews_influence_perceived_trustworthiness_of_online_stores')
+* [Askalidis, Georgios & Malthouse, Edward. (2016). The Value of Online Customer Reviews. 10.1145/2959100.2959181.](https://www.researchgate.net/publication/305044577_The_Value_of_Online_Customer_Reviews)
+* [Utz, Sonja & Kerkhof, Peter & Bos, Joost. (2011). Consumers rule: How consumer reviews influence perceived trustworthiness of online stores. Electronic Commerce Research and Applications. 10.1016/j.elerap.2011.07.010.](https://www.researchgate.net/publication/251693484_Consumers_rule_How_consumer_reviews_influence_perceived_trustworthiness_of_online_stores)
