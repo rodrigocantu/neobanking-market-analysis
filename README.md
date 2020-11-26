@@ -1,4 +1,4 @@
-# Neobanks Market Analysis through Topic Modeling
+# Neobanks User Experience Market Analysis
 
 <img src='https://github.com/rodrigocantu/neobanking-market-analysis/blob/main/graphics/NEO-BANKING_1.jpg'  width="300" height="300" align="left">
 
